@@ -1,3 +1,2 @@
-# MNIST-Nearest-Neighbors
-MNIST Classfier using Nearest Neighbors
-Classfier of the MNIST Dataset. Contains a "from-scratch" implementation and a library-based implementation.
+# MNIST Nearest Neighbors Classifier
+MNIST Classfier using the Nearest Neighbors algorithm. Contains a "from-scratch" implementation and a library-based implementation.
